@@ -1,2 +1,2 @@
 [build]
-	command = "turbo run build --filter=anna-and-ellis-together-forever"
+	command = "pnpm run build"
