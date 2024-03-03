@@ -1,6 +1,6 @@
 <script>
 
-	import Image from "$components/image.svelte";
+	import { Image } from "$components";
 
 </script>
 
