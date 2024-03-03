@@ -15,7 +15,7 @@
 	</div>
 	<div class="basis-2/3">
 		<!-- Main content -->
-		<div class="flex justify-center space-x-10">
+		<div class="flex justify-center space-x-10 md:flex-col">
 			<!-- Image cards -->
 			<DateCard
 				imgSrc="first-date.jpg"
