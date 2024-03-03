@@ -7,6 +7,6 @@
 		<a href="/photo-album" class="hover:underline">PHOTO ALBUM</a>
 	</div>
 	<div class="flex space-x-2">
-		<a href="/wedding_photos.zip" class="hover:underline">DOWNLOAD PHOTOS</a>
+		<a href="https://storage.googleapis.com/icarus64_wedding/wedding_photos.zip" class="hover:underline">DOWNLOAD PHOTOS</a>
 	</div>
 </nav>
