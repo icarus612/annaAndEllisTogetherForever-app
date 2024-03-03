@@ -30,7 +30,7 @@
 				subHeader="THE ENGAGEMENT"
 			/>
 			<DateCard
-				imgSrc="forever-journey.jpg=w500"
+				imgSrc="forever-journey.jpg"
 				imgText="03"
 				header="24 SEP 2023"
 				subHeader="THE FOREVER JOURNEY"
