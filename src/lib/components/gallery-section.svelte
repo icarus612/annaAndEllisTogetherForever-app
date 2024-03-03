@@ -1,7 +1,8 @@
 <script>
-	import images from '$lib/static-exports/images.js';
 	import { ImageModal } from '$components';
 	import Image from './image.svelte';
+
+	export let images = [];
 	let currentImage = false;
 	
 </script>

@@ -1,5 +1,5 @@
 <script>
-	export let width = false;
+	import Image from './image.svelte';
 	export let imageColumns = [
 		[
 			{
