@@ -14,7 +14,6 @@
     <h2 class="text-2xl font-bold">Together Forever</h2>
 	</div>
 	<div class="basis-2/3">
-		<!-- Main content -->
 		<div class="flex justify-center space-x-10 flex-col md:flex-row">
 			<!-- Image cards -->
 			<DateCard
